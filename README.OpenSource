@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-file-selector",
+        "License": "MIT",
+        "License File": "https://github.com/prscX/react-native-file-selector/blob/master/LICENSE",
+        "Version Number": "1.0.2",
+		"Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/prscX/react-native-file-selector",
+        "Description": "file-selector for react-native"
+    }
+]
